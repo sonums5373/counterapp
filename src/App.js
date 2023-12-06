@@ -38,4 +38,3 @@ const reset=()=>{
 
 // Export the Counter component
 export default Counter;
-` `
